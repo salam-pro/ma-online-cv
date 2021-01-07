@@ -1,0 +1,35 @@
+body{
+            margin: 0%;
+            padding: 0%;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .contenue{
+            width: 700px;
+            margin:0px auto;
+        }
+        div.personne{
+            height: 150px;
+        }
+        .liste{
+
+            padding: 20px;
+            list-style-type: none;
+            margin: 20px;
+            font-size: 20px;
+        }
+        .personne img{
+            float: left;
+            height: 150px;
+            margin-right: 30px;
+            border-radius: 50%;
+        }
+        
+        h1,h2{
+            text-align: center;
+        }
+        hr{
+            border-color: lightblue;
+        }
+        .span{
+            font-weight: bold;
+        }
